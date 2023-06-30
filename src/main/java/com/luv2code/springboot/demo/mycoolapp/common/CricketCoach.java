@@ -1,4 +1,4 @@
-package com.luv2code.springboot.demo.mycoolapp.depInjection;
+package com.luv2code.springboot.demo.mycoolapp.common;
 
 import org.springframework.stereotype.Component;
 
